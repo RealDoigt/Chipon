@@ -63,7 +63,12 @@ Après la guerre entre les dieux et les hommes, les deux races s'en étaient ret
 Quant aux hommes
 ## Races
 ## Anatomie de l'âme
-L'âme est à la fois spirituelle et physique. L'âme possède deux centres; le cerveau et le coeur. Quand on parle du cerveau, on parle bien entendu de l'organe physique se situant dans le crâne d'un humain par exemple. Mais dans le cas du coeur, on ne parle pas d'un coeur phyisque, mais d'un organe spirituel. Chez les êtres vivants, l'organe du coeur est à la fois spirituel et physique; si le coeur physique cesse de battre, le coeur spirituel cesse toute activité et vice-versa. Toutefois, chez les être vivants ayant atteint une niveau de spiritualité élevé, il est possible que le coeur physique
+L'âme est à la fois spirituelle et physique. Elle contient plusieurs composantes et sous-composantes qui permettent son existence ainsi que la force de son existence.
+
+### Les coeurs
+L'âme possède deux centres; le cerveau et le coeur. Quand on parle du cerveau, on parle bien entendu de l'organe physique se situant dans le crâne d'un humain par exemple. Mais dans le cas du coeur, on ne parle pas d'un coeur physique, mais d'un organe spirituel. Chez les êtres vivants, l'organe du coeur est à la fois spirituel et physique; si le coeur physique cesse de battre, le coeur spirituel cesse toute activité et vice-versa.
+
+Toutefois, chez les être vivants ayant atteint un niveau de spiritualité élevé, il est possible que le coeur spirituel obtiennent son indépendence du coeur physique. Cela permet d'accéder à plusieurs capacités surnaturelles, entre autre la capacité de transcender la mort en devenant un esprit. Normalement, l'âme d'une personne qui meurt se dissout et ne laisse qu'une masse de ki qui fini par s'évaporer dans l'air.
 
 ### La personalité et l'empreinte
 Du cerveau vient les éléments de la personalité; les connaissances, les souvenirs, etc. Le coeur contient l'énergie vitale de l'âme ou le Ki; la Volonté, l'Essence, la Voix de toute chose et enfin l'Empreinte. Petite parenthèse, les émotions viennent du coeur, mais c'est le cerveau qui régule et contrôle les émotions, c'est pourquoi les esprits sont souvent vulnérables aux émotions fortes; n'ayant pas de cerveau pour contrôler les émotions, ils en deviennent facilement submergés.
@@ -71,6 +76,9 @@ Du cerveau vient les éléments de la personalité; les connaissances, les souve
 L'aspect physique de l'âme et du corps jouent un rôle important dans l'aspect spirituel de l'âme. C'est pourquoi un être physiquement et mentalement en forme aura plus d'énergie vitale et que cette énergie vitale sera plus puissante. Inversement, quelqu'un de déprimé, fatigué et en mauvaise santé aura très peu de Ki et le Ki sera de mauvaise qualité. En retour, l'aspect spirituel de l'âme a sa propre influence (qui est toutefois moins grande) sur les aspects physiques. Dans une logique du même genre que les pauvres deviennent plus pauvres et les riches deviennent plus riches, l'âme croit ou décroit par ses sous-composantes qui s'alimentent entre-elles.
 
 Avec le temps, l'aspect physique de l'âme fini par laissé une marque sur l'aspect spirituel. Une sorte de renforcement automatique des qualités habituelles de l'âme et aussi une sorte de copie. Cette marque s'appelle l'Empreinte. Une fois que l'Empreinte est bien installée, il est difficile pour un être de changer. Ainsi, un être vivant doté d'introspection peut toujours changé, bien qu'avec difficulté, mais un esprit qui n'a pas ou n'a plus de corps a une âme indélibile.
+
+### Les essences
+### La Volonté et la Voix
 ### Le Ki
 Le Ki
 ## Créatures
