@@ -3,7 +3,6 @@ Module natif officiel pour Chipon Bêta 6
 Ce module est dépendant des règles de base.
 
 ## Table des matières
-* [Concept du jeu](#concept-du-jeu)
 * [Création du personnage](#création-du-personnage-joueur)
 * [Classes](#classes)
     + [Mutant](#mutant)
@@ -183,12 +182,19 @@ Jadis, les hommes vivaient de longues vies. Ils ne connaissaient pas la maladie 
 Malheureusement pour les dieux, les hommes d'argent furent en mesure d'atteindre le maximum des compétences de regénération des hommes d'or et même d'amener l'art beaucoup plus loin, bien que la regénération ne leur fut pas aussi naturelle. De plus, les hommes de cette deuxième époque trouvèrent comment guérir les autres avec leur art de guérison et même de repousser la mort dans certains cas, ce qui causa bien plus de maux aux héros de la nouvelle génération lorsque vint le temps d'écraser la rebellion des hommes d'argents corrompus.
 
 Les hommes ordinaires qui s'entraînent suffisement peuvent atteindre un degré de talent plutôt élevé, presque comparable à un homme d'argent.
-TODO: peut guérir automatiquement en dépensant du ki
 
 #### Meilleur esprit
 Effet normal: \+6 Ki, \+6 esprit combatif, \+6 endurance et \+1000 PDV
 Effet si classe intello: \+12 sagesse, \+12 culture générale, \+500 PDV et \+50 PDK
 Niveau Minimal: 1
+
+#### Guérison
+Effet normal: Peut restaurer les PDV d'une cible (incluant soit-même) à 50 PDV par PDK dépensés si le test de Ki est un succès. Le niveau de difficulté est égal au nombre de PDK. Si le succès est critique supérieur, la guérision devient 100 PDV par PDK. Si le sucès est critique inférieur, la guérison est de 25 PDV par PDK.
+Effet si classe intello: Peut restaurer les PDV d'une cible (incluant soit-même) à 250 PDV par PDK dépensés si le test de Ki est un succès. Le niveau de difficulté est égal au nombre de PDK. Si le succès est critique supérieur, la guérision devient 500 PDV par PDK. Si le sucès est critique inférieur, la guérison est de 125 PDV par PDK.
+
+#### Regénération
+Effet normal: Peut restaurer les PDV d'une cible (incluant soit-même) à 5% PDV par PDK dépensés si le test de Ki est un succès. Le niveau de difficulté est égal au nombre de PDK. Si le succès est critique supérieur, la guérision devient 10% PDV par PDK. Si le sucès est critique inférieur, la guérison est de 1% PDV par PDK.
+Effet si classe intello: Peut restaurer les PDV d'une cible (incluant soit-même) à 250 PDV par PDK dépensés si le test de Ki est un succès. Le niveau de difficulté est égal au nombre de PDK. Si le succès est critique supérieur, la guérision devient 500 PDV par PDK. Si le sucès est critique inférieur, la guérison est de 125 PDV par PDK.
 
 ### Absorption du Ki
 TODO: peut méditer en combat et en plus c'est plus efficace
