@@ -144,36 +144,37 @@ Les Hommes d'Or disposaient de 3 yeux et avaient donc une meilleure vision que l
 - L'oeil du dessus était l'oeil du futur. C'était l'oeil le plus puissant et aussi le plus dur à entrainer car il permettait de percevoir l'avenir et l'énergie divine de la création. Les troisièmes yeux les plus puissants pouvaient non seulement voir le futur en temps réel et y réagir, mais aussi carrément altérer la réalité.
 Bien entendu, aujourd'hui ces choses ne sont plus possibles à accomplir pour un être humain, mais quelqu'un s'entrainant suffisement et ayant le trait récessif peut toucher à une forme limitée de ces capacités.
 
-#### Capacité dans le jeu
+#### Capacités dans le jeu
 ##### Meilleure vision
-Effets: \+40 Perception et \+20 Initiative
-Niveau minimal: 1
+* Effets: \+40 Perception et \+20 Initiative
+* Niveau minimal: 1
 
 ##### Oeil éveillé
-Effet: Un troisième oeil apparait sur le front du personnage. \+40 Perception et \+20 Initiative. Peut rouler chance pour percevoir le futur avec un test de ki (ça coûte une action en combat).
-Niveau minimal: 25
+* Effet: Un troisième oeil apparait sur le front du personnage. \+40 Perception et \+20 Initiative. Peut rouler chance pour percevoir le futur avec un test de ki (ça coûte une action en combat).
+* Niveau minimal: 25
 
 ##### Oeil du futur
-Effet: \+40 Initiative. Peut percevoir le futur avec un test de ki. Comme le joueur voit venir toute les attaques, aucun bonus de dégât s'applique en combat contre le joueur.
-Niveau minimal: 50
+* Effet: \+40 Initiative. Peut percevoir le futur avec un test de ki. Comme le joueur voit venir toute les attaques, aucun bonus de dégât s'applique en combat contre le joueur.
+* Niveau minimal: 50
 
 ### Quatres bras
-##### Histoire
+#### Histoire
 Les hommes, avant de faiblir sous le joug divin, pouvaient avoir jusqu'à quatre bras. Du moins, c'était la mutation la plus commune, mais il était aussi possible d'avoir deux coeurs, deux nez, six yeux, quatre oreilles, etc. Cette mutation venait de l'anomalie de leur âme, qui contenait alors à la fois les essences masculines et féminines. On pourrait donc dire qu'il y avait effectivement deux personnes par individus et que cela affectait comment certains hommes se développaient.
 
 De nos jours, les essences féminines et masculines sont généralement séparées entre hommes et femmes, ce qui empêche les gens d'avoir quatre bras. Mais chez certaines personnes, les deux essences demeurent présentes, notamment chez les trans et les hermaphrodites. Ainsi avec suffisement d'entraînement, ces personnes peuvent obtenir des bras supplémentaires, ce qui très pratique pour se battre au corps à corps.
 
+#### Capacités dans le jeu
 ##### Meilleure forme
-Effets: \+18 force et \+12 agilité
-Niveau minimal: 1
+* Effets: \+18 force et \+12 agilité
+* Niveau minimal: 1
 
 ##### Bras additionnels
-Effets: Deux bras additionnels appraissent sous les bras préexistant du personnage. \+12 force, \+6 agilité et \+6 endurance. Élimine 2 dés de difficulté sur tout effort physique demandant l'utilisation des bras, incluant en combat lorsque le joueur se défend en parant une attaque à l'étape de technique.
-Niveau minimal: 25
+* Effets: Deux bras additionnels appraissent sous les bras préexistant du personnage. \+12 force, \+6 agilité et \+6 endurance. Élimine 2 dés de difficulté sur tout effort physique demandant l'utilisation des bras, incluant en combat lorsque le joueur se défend en parant une attaque à l'étape de technique.
+* Niveau minimal: 25
 
 ##### Habitué(e) avec quatres bras
-Effet: \+6 force, \+6 agilité, \+6 endurance et \+6 technique. Élimine 10 dés de difficulté tout effort physique demandant l'utilisation des bras, incluant en combat lorsque le joueur se défend en parant une attaque à l'étape de technique.
-Niveau minimal: 50
+* Effet: \+6 force, \+6 agilité, \+6 endurance et \+6 technique. Élimine 10 dés de difficulté tout effort physique demandant l'utilisation des bras, incluant en combat lorsque le joueur se défend en parant une attaque à l'étape de technique.
+* Niveau minimal: 50
 
 ### Regénération
 #### Histoire
@@ -183,30 +184,38 @@ Malheureusement pour les dieux, les hommes d'argent furent en mesure d'atteindre
 
 Les hommes ordinaires qui s'entraînent suffisement peuvent atteindre un degré de talent plutôt élevé, presque comparable à un homme d'argent.
 
-#### Meilleur esprit
-Effet normal: \+6 Ki, \+6 esprit combatif, \+6 endurance et \+1000 PDV
-Effet si classe intello: \+12 sagesse, \+12 culture générale, \+500 PDV et \+50 PDK
-Niveau Minimal: 1
+#### Capacités dans le jeu
+##### Meilleur esprit
+* Effet normal: \+6 Ki, \+6 esprit combatif, \+6 endurance et \+1000 PDV
+* Effet si classe intello: \+12 sagesse, \+12 culture générale, \+500 PDV et \+50 PDK
+* Niveau minimal: 1
 
-#### Guérison
-Effet normal: Peut restaurer les PDV d'une cible (incluant soit-même) à 50 PDV par PDK dépensés si le test de Ki est un succès. Le niveau de difficulté est égal au nombre de PDK. Si le succès est critique supérieur, la guérision devient 100 PDV par PDK. Si le sucès est critique inférieur, la guérison est de 25 PDV par PDK.
-Effet si classe intello: Peut restaurer les PDV d'une cible (incluant soit-même) à 250 PDV par PDK dépensés si le test de Ki est un succès. Le niveau de difficulté est égal au nombre de PDK. Si le succès est critique supérieur, la guérision devient 500 PDV par PDK. Si le sucès est critique inférieur, la guérison est de 125 PDV par PDK.
+##### Guérison
+* Effet normal: Peut restaurer les PDV d'une cible (incluant soit-même) à 50 PDV par PDK dépensés si le test de Ki est un succès. Le niveau de difficulté est égal au nombre de PDK. Si le succès est critique supérieur, la guérision devient 100 PDV par PDK. Si le sucès est critique inférieur, la guérison est de 25 PDV par PDK.
+* Effet si classe intello: Peut restaurer les PDV d'une cible (incluant soit-même) à 250 PDV par PDK dépensés si le test de Ki est un succès. Le niveau de difficulté est égal au nombre de PDK. Si le succès est critique supérieur, la guérision devient 500 PDV par PDK. Si le sucès est critique inférieur, la guérison est de 125 PDV par PDK.
+* Niveau minimal: 25
 
-#### Regénération
-Effet normal: Peut restaurer les PDV d'une cible (incluant soit-même) à 5% PDV par PDK dépensés si le test de Ki est un succès. Le niveau de difficulté est égal au nombre de PDK. Si le succès est critique supérieur, la guérision devient 10% PDV par PDK. Si le sucès est critique inférieur, la guérison est de 1% PDV par PDK.
-Effet si classe intello: Peut restaurer les PDV d'une cible (incluant soit-même) à 250 PDV par PDK dépensés si le test de Ki est un succès. Le niveau de difficulté est égal au nombre de PDK. Si le succès est critique supérieur, la guérision devient 500 PDV par PDK. Si le sucès est critique inférieur, la guérison est de 125 PDV par PDK.
+##### Regénération
+* Effet normal: Peut restaurer les PDV d'une cible (incluant soit-même) à 5% PDV par PDK dépensés si le test de Ki est un succès. Le niveau de difficulté est égal au nombre de PDK. Si le succès est critique supérieur, la guérision devient 10% PDV par PDK. Si le sucès est critique inférieur, la guérison est de 1% PDV par PDK.
+* Effet si classe intello: Peut restaurer les PDV d'une cible (incluant soit-même) à 250 PDV par PDK dépensés si le test de Ki est un succès. Le niveau de difficulté est égal au nombre de PDK. Si le succès est critique supérieur, la guérision devient 500 PDV par PDK. Si le sucès est critique inférieur, la guérison est de 125 PDV par PDK.
+* Niveau minimal: 50
 
 ### Absorption du Ki
 TODO: peut méditer en combat et en plus c'est plus efficace
 
 ### Autoclonage
+#### Histoire
 À l'époque des Hommes d'Or, les femmes n'existaient pas; les hommes possédaient à la fois les essences féminines et masculines, ce qui leur permettait de créer des clones d'eux-même. Il existait alors quatres types de clonage; le clonage partiel, qui consistait à cloner un membre, généralement de façon temporaire, afin de l'utiliser en combat ou pour des tâches complexes; le clonage par illusion, qui consistait à créer une sorte de clone sans corps physique et presque ou entièrement intangible; le clonage temporaire, qui servait surtout dans les combats mais qui avait l'inconvénient de séparer le Ki également entre chaque clone et l'original; enfin, il y avait le clonage complet, qui était une méthode de procréation.
 
 TODO: se dédouble temporairement
-#### Illusions
-Effet normal: Selon un test de Ki dont la difficulté est égale au niveau le plus élevé des cibles, le joueur peut créer une illusion de soit qui dure un tour de combat (ou 1 minute hors combat). Cette illusion est convaincante et va distraire l'ennemi. L'utilisation de cette capacité coûte 1 PDK.
+#### Capacités dans le jeu
+##### Illusions
+* Effet normal: Selon un test de Ki dont la difficulté est égale au niveau le plus élevé des cibles, le joueur peut créer une illusion de soit qui dure un tour de combat (ou 1 minute hors combat). Cette illusion est convaincante et va distraire l'ennemi. L'utilisation de cette capacité coûte 1 PDK.
+* Effet classe illusionniste: Idem, mais la difficulté est divisée par 4. De plus, le joueur peut créer autant d'illusions qu'il veut et ce pour la durée qu'il souhaite. L'utilisation de cette capacité coûte X + Y PDK où X est le nombre d'illusions et Y est la quantité de temps (mesurée en tours dans un combat ou en minutes à l'extérieur d'un combat).
+* Niveau minimal: 1
 
-Effet classe illusionniste: Idem, mais la difficulté est divisée par 4. De plus, le joueur peut créer autant d'illusions qu'il veut et ce pour la durée qu'il souhaite. L'utilisation de cette capacité coûte X + Y PDK où X est le nombre d'illusions et Y est la quantité de temps (mesurée en tours dans un combat ou en minutes à l'extérieur d'un combat).
+#### Membres clonés
+* Effet:
 ### Aura
 TODO: intimide facilement, peut influencer les plus faibles à faire ce qu'il veut
 
@@ -221,16 +230,16 @@ Lorsque vint le tour des Hommes d'Argent, qui sont de la race intermédiaire ent
 
 #### Capacités dans le jeu
 ##### Classe supplémentaire
-Effet: Ajoute une classe supplémentaire au personnage joueur. Le joueur doit choisir un animal ainsi qu'un attribut qui représentent le personnage et les inscrirent sur sa fiche.
-Niveau minimal: 1
+* Effet: Ajoute une classe supplémentaire au personnage joueur. Le joueur doit choisir un animal ainsi qu'un attribut qui représentent le personnage et les inscrirent sur sa fiche.
+* Niveau minimal: 1
 
 ##### Transformation à la pleine lune
-Effet: Ajoute une classe supplémentaire au personnage joueur. Lors d'une pleine lune, le joueur peut faire un test de ki sur une difficulté de 15 pour pouvoir se transformer en l'animal répresentant son personnage et s'il réussi, il prend l'apparence de l'animal et un bonus temporaire qui multiplie par une fois et demi (attribut + attribut / 2) l'attribut. La transformation ainsi que le bonus durent toute la nuit et draînent 2 PDK par tour de combat. Le joueur peut se retrouver sa forme originelle s'il le souhaite ou si ses PDK tombent à 0 avant que la nuit se termine mais dans de tels cas, il ne peut plus se retransformer avant au moins la prochaine nuit.
-Niveau minimal: 25
+* Effet: Ajoute une classe supplémentaire au personnage joueur. Lors d'une pleine lune, le joueur peut faire un test de ki sur une difficulté de 15 pour pouvoir se transformer en l'animal répresentant son personnage et s'il réussi, il prend l'apparence de l'animal et un bonus temporaire qui multiplie par une fois et demi (attribut + attribut / 2) l'attribut. La transformation ainsi que le bonus durent toute la nuit et draînent 2 PDK par tour de combat. Le joueur peut se retrouver sa forme originelle s'il le souhaite ou si ses PDK tombent à 0 avant que la nuit se termine mais dans de tels cas, il ne peut plus se retransformer avant au moins la prochaine nuit.
+* Niveau minimal: 25
 
 ##### Transformation à volonté
-Le joueur peut faire un test de ki sur une difficulté de 30 pour pouvoir se transformer en l'animal répresentant son personnage et s'il réussi, il prend l'apparence de l'animal et un bonus temporaire qui double l'attribut. La transformation ainsi que le bonus durent toute la nuit et draînent 1 PDK par tour de combat. Le joueur peut se retrouver sa forme originelle s'il le souhaite ou si ses PDK tombent à 0.
-Niveau minimal: 50
+* Le joueur peut faire un test de ki sur une difficulté de 30 pour pouvoir se transformer en l'animal répresentant son personnage et s'il réussi, il prend l'apparence de l'animal et un bonus temporaire qui double l'attribut. La transformation ainsi que le bonus durent toute la nuit et draînent 1 PDK par tour de combat. Le joueur peut se retrouver sa forme originelle s'il le souhaite ou si ses PDK tombent à 0.
+* Niveau minimal: 50
 
 ## Évolution du personnage
 Un personnage joueur augmente de niveau lorsqu’il a obtenu un nombre d’EXP égal ou supérieur au nombre d’EXP maximal. Le nombre d’EXP est alors remis à 0. Le nombre d’EXP maximal est égal à NIV * 10.
