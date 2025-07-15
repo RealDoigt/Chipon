@@ -55,7 +55,7 @@ Un jour, les hommes foulèrent la terre pour la première fois. Rapidement, ils 
 
 Hélas, cela ne pouvait durer éternellement. Les esprits lunaires, s'apercevant du traitement différent des hommes, devinrent courroucés. Ils préparèrent un plan afin de créer l'inimitié entre les hommes et les dieux. Les esprits réussirent à convaincre les hommes qu'ils étaient des esclaves opprimés et que la seule solution était la rébellion, non, pire; la destruction non seulement de l'ordre établi mais surtout des dieux eux-même. L'ambition des hommes fut nourri de mensonges et d'illusions de grandeur. On leur promettait un empire qui leur appartenait de droit mais qui aurait été usurpé. La divinité devait être punie et éradiquée et l'homme allait s'en charger.
 
-Ainsi les hommes d'or connurent leur chute. D'un côté les hommes au coeur noirci alliés de mauvais esprits et de l'autre les dieux et les quelques hommes qui restèrent loyaux. Le combat fut long et dévastateur. Le paradis sur terre fut détruit et plus jamais il ne sera reconstruit. Quand le chef du clan rebel fut enfin vaincu et scellé magiquement à tout jamais, la race des hommes fut diminuée et les esprits furent rappelés sur terre afin d'en faciliter la surveillance.
+Ainsi les hommes d'or connurent leur chute. D'un côté les hommes au coeur noirci alliés de mauvais esprits et de l'autre les dieux et les quelques hommes qui restèrent loyaux. Le combat fut long et dévastateur. Le paradis sur terre fut détruit et plus jamais il ne sera reconstruit. Quand le chef du clan rebel fut enfin vaincu et scellé magiquement à tout jamais, la race des hommes fut diminuée. Les esprits, eux, furent rappelés sur terre afin d'en faciliter la surveillance en espérant qu'ils n'inspirent pas d'autres idées de grandeur aux hommes.
 
 ### L'époque des Hommes d'Argent
 Après la guerre entre les dieux et les hommes, les deux races s'en étaient retrouvés nettement diminuées; d'abord la plupart des dieux avaient péri et de ceux qui avaient survécu, la destruction du paradis sur terre les affligea trop pour qu'ils soient heureux de rester. Ainsi le Panthéon fut cédé aux demi-dieux, alors que les dieux eux-même s'exilèrent vers d'autres mondes où prirent congé de la vie sur terre pour aller vivre dans le monde sous-terrain, loin des autres races.
@@ -78,6 +78,12 @@ L'aspect physique de l'âme et du corps jouent un rôle important dans l'aspect 
 Avec le temps, l'aspect physique de l'âme fini par laissé une marque sur l'aspect spirituel. Une sorte de renforcement automatique des qualités habituelles de l'âme et aussi une sorte de copie. Cette marque s'appelle l'Empreinte. Une fois que l'Empreinte est bien installée, il est difficile pour un être de changer. Ainsi, un être vivant doté d'introspection peut toujours changé, bien qu'avec difficulté, mais un esprit qui n'a pas ou n'a plus de corps a une âme indélibile.
 
 ### Les essences
+Les essences sont des énergies créatrices qui composent, avec d'autres énergies, le Ki, ou l'énergie vitale. Sans essence, un être a juste assez de créativité pour imaginer la conséquence logique d'une action, mais il ne peut pas créer. Sans un essence, un être ne peut même pas procréer.
+
+#### La procréation
+Il existe deux types d'essence; l'essence féminine et l'essence masculine. La procréation se fait au niveau spirituel lorsque ces essences sont mélangées. De nos jours, ce mélange est facilité par le concept de sexualité, qui rend physique et automatique le processus de procréation. Cependant, dans l'ancien temps des hommes d'or, la sexualité n'existait pas et les hommes possédait à la fois les énergies féminines et masculines en eux, ce qui les rendait si redoutables même contre les dieux. Quand vint l'âge des hommes d'argent, les dieux séparèrent les essences des humains afin qu'ils aient moins de Ki. Dorénavant, il y aurait des hommes et des femmes; chaque sexe n'aurait qu'une seule essence, sauf dans de rares cas de traits récessifs.
+
+Les esprits n'ont pas d'essence, c'est pourquoi ils sont incapables de procréer. Cependant, ils peuvent tout de même se fusionner avec d'autres esprits, créant ainsi de nouveaux individus selon une certaine mesure.
 ### La Volonté et la Voix
 ### Le Ki
 Le Ki
