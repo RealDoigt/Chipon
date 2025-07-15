@@ -62,6 +62,10 @@ Après la guerre entre les dieux et les hommes, les deux races s'en étaient ret
 
 Quant aux hommes
 ## Races
+### Nihil et l'Entité
+Souvent à tort confondu avec le Yin et le Yang, Nihil et l'Entité sont des êtres qui transcendent le temps et l'univers. Alors que l'univers venait de naître, ils ont combatu l'un contre l'autre pour en saisir le contrôle, cependant ni l'un ni l'autre ne parvint à prendre le dessus. Les émanations d'énergie furent si grandes, qu'encore de nos jours, des résidus de leur présence demeurent dans l'univers et s'affrontre sans cesse. D'un côté, la Noirceur et l'autre la Lumière qui a eux deux rassemblent les anciennes énergies de ces êtres plus vieux que le monde.
+
+Le Yin et le Yang n'ont aucun rapport aucune avec les choses rapportées ici, car le Yin et le Yang sont des concepts complémentaires où l'un domine sur l'autre alors que la Noirceur et la Lumière (ou anciennement Nihil et l'Entité) sont tout d'abord des forces opposées et égales cherchant chacune la destruction de l'autre. De plus, le Yin est féminin et le Yang est masculin alors que la Noirceur et la Lumière ne sont pas des forces genrées.
 ## Anatomie de l'âme
 L'âme est à la fois spirituelle et physique. Elle contient plusieurs composantes et sous-composantes qui permettent son existence ainsi que la force de son existence.
 
