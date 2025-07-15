@@ -85,8 +85,8 @@ Il existe deux types d'essence; l'essence féminine et l'essence masculine. La p
 
 Les esprits n'ont pas d'essence, c'est pourquoi ils sont incapables de procréer. Cependant, ils peuvent tout de même se fusionner avec d'autres esprits, créant ainsi de nouveaux individus selon une certaine mesure.
 
-### La Volonté et la Voix
-La Volonté et la Voix sont deux composantes de l'âme qui sont à la fois distinctes mais similaires. La Volonté est quelque chose de présent en chaque être pensant et semble avoir un rapport avec la genèse de l'humanité alors que la Voix est à la fois un mode de communication, une façon de communier avec la nature ainsi qu'une voix d'outre monde ayant sa propre présence dans l'univers. Toute chose à une Voix, même un arbre, si seulement pour dire « j'ai soif ».
+### La Volonté et la Voix de toute chose
+La Volonté et la Voix \[de toute chose\] sont deux composantes de l'âme qui sont à la fois distinctes mais similaires. La Volonté est quelque chose de présent en chaque être pensant et semble avoir un rapport avec la genèse de l'humanité alors que la Voix est à la fois un mode de communication, une façon de communier avec la nature ainsi qu'une voix d'outre monde ayant sa propre présence dans l'univers. Toute chose à une Voix, même un arbre, si seulement pour dire « j'ai soif ».
 
 La plupart des gens ne sont pas connectés à leur Volonté et ne peuvent entendre la Voix ni l'utiliser pour communiquer avec les autres. Même les dieux et les esprits sont largements déconnectés de ces forces mystérieuses. Aussi, il est impossible de dire si la Volonté et la Voix font réellement partie de l'âme où si elles ne font que l'habiter.
 
