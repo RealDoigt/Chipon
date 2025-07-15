@@ -84,6 +84,7 @@ Les essences sont des énergies créatrices qui composent, avec d'autres énergi
 Il existe deux types d'essence; l'essence féminine et l'essence masculine. La procréation se fait au niveau spirituel lorsque ces essences sont mélangées. De nos jours, ce mélange est facilité par le concept de sexualité, qui rend physique et automatique le processus de procréation. Cependant, dans l'ancien temps des hommes d'or, la sexualité n'existait pas et les hommes possédait à la fois les énergies féminines et masculines en eux, ce qui les rendait si redoutables même contre les dieux. Quand vint l'âge des hommes d'argent, les dieux séparèrent les essences des humains afin qu'ils aient moins de Ki. Dorénavant, il y aurait des hommes et des femmes; chaque sexe n'aurait qu'une seule essence, sauf dans de rares cas de traits récessifs.
 
 Les esprits n'ont pas d'essence, c'est pourquoi ils sont incapables de procréer. Cependant, ils peuvent tout de même se fusionner avec d'autres esprits, créant ainsi de nouveaux individus selon une certaine mesure.
+
 ### La Volonté et la Voix
 ### Le Ki
 Le Ki

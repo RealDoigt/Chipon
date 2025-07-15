@@ -200,10 +200,16 @@ Effet si classe intello: Peut restaurer les PDV d'une cible (incluant soit-même
 TODO: peut méditer en combat et en plus c'est plus efficace
 
 ### Autoclonage
-À l'époque des Hommes d'Or, les femmes n'existaient pas; les hommes possédaient à la fois les essences féminines et masculines, ce qui leur permettait de créer des clones d'eux-même. Il existait alors quatres types de clonage; le clonage partiel, qui consistait à cloner un membre, généralement de façon temporaire, afin de l'utiliser en combat ou pour des tâches complexes; le clonage par illusion, qui consistait à créer une sorte de clone sans corps physique et presque ou entièrement intangible;
+À l'époque des Hommes d'Or, les femmes n'existaient pas; les hommes possédaient à la fois les essences féminines et masculines, ce qui leur permettait de créer des clones d'eux-même. Il existait alors quatres types de clonage; le clonage partiel, qui consistait à cloner un membre, généralement de façon temporaire, afin de l'utiliser en combat ou pour des tâches complexes; le clonage par illusion, qui consistait à créer une sorte de clone sans corps physique et presque ou entièrement intangible; le clonage temporaire, qui servait surtout dans les combats mais qui avait l'inconvénient de séparer le Ki également entre chaque clone et l'original; enfin, il y avait le clonage complet, qui était une méthode de procréation.
+
 TODO: se dédouble temporairement
+#### Illusions
+Effet normal: Selon un test de Ki dont la difficulté est égale au niveau le plus élevé des cibles, le joueur peut créer une illusion de soit qui dure un tour de combat (ou 1 minute hors combat). Cette illusion est convaincante et va distraire l'ennemi. L'utilisation de cette capacité coûte 1 PDK.
+
+Effet classe illusionniste: Idem, mais la difficulté est divisée par 4. De plus, le joueur peut créer autant d'illusions qu'il veut et ce pour la durée qu'il souhaite. L'utilisation de cette capacité coûte X + Y PDK où X est le nombre d'illusions et Y est la quantité de temps (mesurée en tours dans un combat ou en minutes à l'extérieur d'un combat).
 ### Aura
 TODO: intimide facilement, peut influencer les plus faibles à faire ce qu'il veut
+
 ### Mantra
 TODO: concentration et discipline énorme. Honneur intouchable. Gagne plus de points d'extra
 
@@ -211,7 +217,7 @@ TODO: concentration et discipline énorme. Honneur intouchable. Gagne plus de po
 #### Histoire
 Les Hommes d'Or avaient originalement des formes de combat supérieures qu'ils pouvaient accéder en se métamorphosant sous deux formes différentes. Leur première forme était une transformation transitoire entre la forme normale et la forme ultime, elle permettait soit d'obtenir quelque chose de ressemblant à la transformation ultime mais qui n'est pas aussi forte ou simplement une amélioration des armes utilisées par le combattant. La première transformation n'apportait pas beaucoup de puissance de plus à l'homme, mais elle ajoutait des cordes à son arc si on peut le dire ainsi. La deuxième transformation, c'est-à-dire l'ultime forme, métamorphosait l'utilisateur complètement ou presque complètement en animal ou créature mythologique. Cette dernière transformation prenait beaucoup d'entrainement avant de maturer et consommait toujours beaucoup de Ki, au point où il était nécessaire d'en commencer l'utilisation seulement lors de journées ensoleillées, idéalement le matin au levé du soleil afin d'absorber l'énergie solaire qui complémentait l'énergie vitale.
 
-Lorsque vint le tour des Hommes d'Argent, qui sont de la race intermédiaire entre la race supérieure et la race ordinaire des hommes, les dieux limitèrent cette transformation au levé de la pleine lune et ainsi seule une forme incomplète demeura accessible. Cette capacité a largement disparu depuis l'avènement de l'homme ordinaire, quoique la malédiction du loup garou qui sévit sur l'autre continent est issue de cette ancienne capacité humaine et certains maîtres parviennent à accomplir quelque chose ressemblant à la transformation de l'Homme d'Argent.
+Lorsque vint le tour des Hommes d'Argent, qui sont de la race intermédiaire entre la race supérieure et la race ordinaire des hommes, les dieux limitèrent cette transformation au levé de la pleine lune et ainsi seule une forme incomplète demeura accessible. Cette capacité a largement disparu depuis l'avènement de l'homme ordinaire, quoique la malédiction du loup garou qui sévit sur l'autre continent est issue de cette ancienne capacité humaine. Certains maîtres parviennent à accomplir quelque chose ressemblant à la transformation de l'Homme d'Argent.
 
 #### Capacités dans le jeu
 ##### Classe supplémentaire
