@@ -229,7 +229,7 @@ Niveau minimal: 50
 ## Évolution du personnage
 Un personnage joueur augmente de niveau lorsqu’il a obtenu un nombre d’EXP égal ou supérieur au nombre d’EXP maximal. Le nombre d’EXP est alors remis à 0. Le nombre d’EXP maximal est égal à NIV * 10.
 
-Lorsque le personnage d’un joueur augmente de niveau, celui-ci gagne 10 PDE que le joueur peut dépenser pour améliorer un élément des sections attributs et dégâts. Pour chaque point dépensé dans un attribut spécifique, la valeur cet attribut augmente de 3 (4 dans le cas d'un animal). Un joueur n’est pas tenu de dépenser immédiatement ses PDE, mais il peut le faire à tout moment.
+Lorsque le personnage d’un joueur augmente de niveau, celui-ci gagne 1 PDK ainsi que 10 PDE que le joueur peut dépenser pour améliorer un élément des sections attributs et dégâts. Pour chaque point dépensé dans un attribut spécifique, la valeur cet attribut augmente de 3 (4 dans le cas d'un animal). Un joueur n’est pas tenu de dépenser immédiatement ses PDE, mais il peut le faire à tout moment.
 
 Le joueur ne peut pas augmenter la quantité de dés de dégâts indéfiniment, voir la table ci-dessous pour le maximum de chaque type de dé:
 
