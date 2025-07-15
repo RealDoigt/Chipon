@@ -271,23 +271,29 @@ Gain de points temporaire sur un attribut.
 #### Malus
 Bonus négatif. C’est l’équivalent inverse du bonus.
 
+#### Multiplicateur
+Multiplication temporaire des dégâts.
+
+#### Diviseur
+Division temporaire des dégâts.
+
 #### Jet critique
 Il existe deux types de jets critiques; le jet critique inférieur et le jet critique supérieur.
 * Le jet critique supérieur se produit dans un jet de D6 lorsqu’au moins la moitié des dés jetés ont 5 ou 6 sur leur face dominante en autant qu’au moins l’un d’eux est un 6. Pour le D20, c’est les nombres 18, 19 et 20 tant qu’il y ait au moins un 20 dans le lot. Selon les règles et le MJ, un jet critique supérieur peut grandement influer de façon positive sur le degré de succès d’une tâche sans pour autant assurer son succès. Dans le cas d’une attaque, le jet critique supérieur a pour effet de doubler les dégâts si on est l’attaquant ou diviser les dégâts par 2 si l’on est le défenseur.
 
 * Le jet critique inférieur se produit dans un jet de D6 lorsqu’au moins la moitié des dés jetés ont 1 ou 2 sur leur face dominante en autant qu’au moins l’un d’eux est un 1. Pour le D20, c’est les nombres 1, 2 et 3 tant qu’il y a au moins un 1 dans le lot. Selon les règles et le MJ, un jet critique inférieur peut grandement influer de façon négative sur le degré de succès d’une tâche sans pour autant assurer son échec. Dans le cas d’une attaque, le jet critique à pour effet de diviser les dégâts par 2 si on est l’attaquant ou doubler les dégâts si l’on est le défenseur.
 
+#### Augmentation des valeurs
+Les bonus et les malus s’additionnent entre eux alors que les multiplicateurs et les diviseurs se multiplient. Typiquement, les multiplicateurs  et les diviseurs s'applique sur les dégâts alors que les bonus et les malus s'appliquent sur les attributs.
+
 ### Module
 Un module est une extension des règles du jeu permettant d'adapter un univers spécifique aux règles de Chipon
 
-### Module dépendant
+#### Module dépendant
 Un module dépendant est un module qui fonctionne comme un complément aux règles de base plutôt que comme une variante de jeu distinct. En d'autres mots, gardez ce manuel à porter de main car vous en aurez besoin.
 
-### Module indépendant
+#### Module indépendant
 Un module indépendant agit comme une variante complète et pleinement fonctionnelle de Chipon. Vous n'aurez pas besoin de ce manuel pour y jouer.
 
-### Module natif
+#### Module natif
 Le module natif est le module officiel de Chipon permettant de jouer dans l'univers créé spécifiquement pour ce jeu. Ceci étant dit, l'univers de Chipon a été créé comme une sorte de compromis; l'intention première est que les personnes utilisent leurs propres modules permettant d'incarner un rôle dans un véritable univers de manga.
-
-#### Augmentation des valeurs
-Les bonus et les malus s’additionnent entre eux alors que les multiplicateurs et les diviseurs se multiplient. Typiquement, les multiplicateurs  et les diviseurs s'applique sur les dégâts allors que les bonus et les malus s'appliquent sur les attributs.
