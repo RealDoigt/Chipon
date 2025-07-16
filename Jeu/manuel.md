@@ -90,7 +90,7 @@ Avant de commencer à extrapoler sur les possibilités, il faut absolument se te
 
 ### Chance
 Lorsque le déroulement d'un événement ou le résultat d'un jet ne plait pas à un joueur, celui-ci peut décider de tester sa chance si le MJ accepte de le lui accorder. Pour tester sa chance, le joueur doit d'abord dépenser un point de chance, puis il doit ensuite rouler un D12. Si le jet est inférieur à la nouvelle chance du joueur, c'est un succès;
-* Quand c'est une situation où c'est le MJ qui force au joueur de tester leur chance, le joueur n'ont pas à dépenser de points de chance si le MJ ne le demande pas.
+* Quand c'est une situation où c'est le MJ qui force au joueur de tester sa chance, le joueur n'a pas à dépenser de points de chance si le MJ ne le demande pas.
 * Le joueur peut rejouer le jet qu'il n'a pas aimé. Il faut que le jet soit le sien et non celui d'un autre joueur ou PNJ.
 * Tout degré de changement au déroulement de l'histoire se fait ou pas selon de la volonté et les caprices du MJ.
 
@@ -280,9 +280,9 @@ Division temporaire des dégâts.
 
 #### Jet critique
 Il existe deux types de jets critiques; le jet critique inférieur et le jet critique supérieur.
-* Le jet critique supérieur se produit dans un jet de D6 lorsqu’au moins la moitié des dés jetés ont 5 ou 6 sur leur face dominante en autant qu’au moins l’un d’eux est un 6. Pour le D20, c’est les nombres 18, 19 et 20 tant qu’il y ait au moins un 20 dans le lot. Selon les règles et le MJ, un jet critique supérieur peut grandement influer de façon positive sur le degré de succès d’une tâche sans pour autant assurer son succès. Dans le cas d’une attaque, le jet critique supérieur a pour effet de doubler les dégâts si on est l’attaquant ou diviser les dégâts par 2 si l’on est le défenseur.
+* Le jet critique supérieur se produit dans un jet de D6 lorsqu’au moins la moitié des dés jetés ont 5 ou 6 sur leur face dominante en autant qu’au moins l’un d’eux est un 6. Pour le D20, c’est les nombres 18, 19 et 20 tant qu’il y ait au moins un 20 dans le lot. Selon les règles et le MJ, un jet critique supérieur peut grandement influencer de façon positive sur le degré de succès d’une tâche sans pour autant assurer son succès. Dans le cas d’une attaque, le jet critique supérieur a pour effet de doubler les dégâts si on est l’attaquant ou diviser les dégâts par 2 si l’on est le défenseur.
 
-* Le jet critique inférieur se produit dans un jet de D6 lorsqu’au moins la moitié des dés jetés ont 1 ou 2 sur leur face dominante en autant qu’au moins l’un d’eux est un 1. Pour le D20, c’est les nombres 1, 2 et 3 tant qu’il y a au moins un 1 dans le lot. Selon les règles et le MJ, un jet critique inférieur peut grandement influer de façon négative sur le degré de succès d’une tâche sans pour autant assurer son échec. Dans le cas d’une attaque, le jet critique à pour effet de diviser les dégâts par 2 si on est l’attaquant ou doubler les dégâts si l’on est le défenseur.
+* Le jet critique inférieur se produit dans un jet de D6 lorsqu’au moins la moitié des dés jetés ont 1 ou 2 sur leur face dominante en autant qu’au moins l’un d’eux est un 1. Pour le D20, c’est les nombres 1, 2 et 3 tant qu’il y a au moins un 1 dans le lot. Selon les règles et le MJ, un jet critique inférieur peut grandement influencer de façon négative sur le degré de succès d’une tâche sans pour autant assurer son échec. Dans le cas d’une attaque, le jet critique à pour effet de diviser les dégâts par 2 si on est l’attaquant ou doubler les dégâts si l’on est le défenseur.
 
 #### Augmentation des valeurs
 Les bonus et les malus s’additionnent entre eux alors que les multiplicateurs et les diviseurs se multiplient. Typiquement, les multiplicateurs  et les diviseurs s'applique sur les dégâts alors que les bonus et les malus s'appliquent sur les attributs.
