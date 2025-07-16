@@ -210,12 +210,13 @@ TODO: peut méditer en combat et en plus c'est plus efficace
 TODO: se dédouble temporairement
 #### Capacités dans le jeu
 ##### Illusions
-* Effet normal: Selon un test de Ki dont la difficulté est égale au niveau le plus élevé des cibles, le joueur peut créer une illusion de soit qui dure un tour de combat (ou 1 minute hors combat). Cette illusion est convaincante et va distraire l'ennemi. L'utilisation de cette capacité coûte 1 PDK.
+* Effet normal: Selon un test de Ki dont la difficulté est égale au niveau le plus élevé des cibles, le joueur peut créer une illusion de lui-même qui dure un tour de combat (ou 1 minute hors combat). Cette illusion est convaincante et va distraire l'ennemi. L'utilisation de cette capacité coûte 1 PDK.
 * Effet classe illusionniste: Idem, mais la difficulté est divisée par 4. De plus, le joueur peut créer autant d'illusions qu'il veut et ce pour la durée qu'il souhaite. L'utilisation de cette capacité coûte X + Y PDK où X est le nombre d'illusions et Y est la quantité de temps (mesurée en tours dans un combat ou en minutes à l'extérieur d'un combat).
 * Niveau minimal: 1
 
-#### Membres clonés
-* Effet:
+##### Membres clonés
+* Effet: Permet de cloner un organe du corps temporairement. L'effet varie selon l'organe en question et le MJ. Veuillez consulter votre MJ.
+* Niveau minimal: 25
 ### Aura
 TODO: intimide facilement, peut influencer les plus faibles à faire ce qu'il veut
 
@@ -283,7 +284,6 @@ Par contre, le ki n'est pas 100% comme de la magie dans un JDR traditionnel. On 
 De plus, le ki est une force très difficile à manipuler. Quand quelqu'un dans l'univers de Chipon apprend à l'utiliser, il va apprendre les même bases que tout le monde lui permettant d'utiliser le ki pour réduire ou augmenter les dégâts sur soit et sur les autres. Mais pour une utilisation plus poussée, il va surtout se spécialiser sur un cas d'utilisation unique. Par exemple, les moines de la Montagne de la mort apprennent à contrôler un seul des cinq éléments chinois pendant toute leur vie; rares sont ceux qui peuvent en maîtriser deux.
 
 Plus la chose est petite et éloignée du joueur, plus elle est difficile à manipuler avec du ki. Ainsi, un joueur qui utilise son ki pour utiliser ses ongles comme des griffes acérés aura plus de facilité et dépensera moins d'énergie qu'un joueur qui s'arrache les ongles pour en faire des senbon mortels. Dans le même ordre d'idée, un joueur qui solidifie un poil de cheveux pour en faire un pique pointue aura plus de difficulté et utilisera plus d'énergie qu'un joueur manipulant librement les mouvements d'un fouet. Dans un ordre d'idée différent, il sera toujours plus facile de renforcer une nature déjà présente chez l'objet. Quelques exemples: la solidité d'une pierre pourra s'améliorer beaucoup plus facilement que la solidité de l'eau; du magma se réchauffera plus facilement que de la glace; du vent se déplacera plus facilement et rapidement que de la terre; et ainsi de suite.
-
 
 ## Chance
 Ce module ajoute une limitation à la chance:
