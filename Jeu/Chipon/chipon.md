@@ -192,7 +192,7 @@ Les hommes ordinaires qui s'entraînent suffisement peuvent atteindre un degré 
 
 ##### Guérison
 * Effet normal: Peut restaurer les PDV d'une cible (incluant soit-même) à 50 PDV par PDK dépensés si le test de Ki est un succès. Le niveau de difficulté est égal au nombre de PDK. Si le succès est critique supérieur, la guérision devient 100 PDV par PDK. Si le sucès est critique inférieur, la guérison est de 25 PDV par PDK.
-* Effet si classe intello: Peut restaurer les PDV d'une cible (incluant soit-même) à 250 PDV par PDK dépensés si le test de Ki est un succès. Le niveau de difficulté est égal au nombre de PDK. Si le succès est critique supérieur, la guérision devient 500 PDV par PDK. Si le sucès est critique inférieur, la guérison est de 125 PDV par PDK.
+* Effet si classe intello: Peut restaurer les PDV d'une cible (incluant soit-même) à 250 PDV par PDK dépensés si le test de Ki est un succès. Le niveau de difficulté est égal au nombre de PDK. Si le succès est critique supérieur, la guérison devient 500 PDV par PDK. Si le sucès est critique inférieur, la guérison est de 125 PDV par PDK.
 * Niveau minimal: 25
 
 ##### Regénération
@@ -205,7 +205,7 @@ TODO: peut méditer en combat et en plus c'est plus efficace
 
 ### Autoclonage
 #### Histoire
-À l'époque des Hommes d'Or, les femmes n'existaient pas; les hommes possédaient à la fois les essences féminines et masculines, ce qui leur permettait de créer des clones d'eux-même. Il existait alors quatres types de clonage; le clonage partiel, qui consistait à cloner un membre, généralement de façon temporaire, afin de l'utiliser en combat ou pour des tâches complexes; le clonage par illusion, qui consistait à créer une sorte de clone sans corps physique et presque ou entièrement intangible; le clonage temporaire, qui servait surtout dans les combats mais qui avait l'inconvénient de séparer le Ki également entre chaque clone et l'original; enfin, il y avait le clonage complet, qui était une méthode de procréation.
+À l'époque des Hommes d'Or, les femmes n'existaient pas; les hommes possédaient à la fois les essences féminines et masculines, ce qui leur permettait de créer des clones d'eux-même. Il existait alors quatres types de clonage; le clonage partiel, qui consistait à cloner un membre, généralement de façon temporaire, afin de l'utiliser en combat ou pour des tâches complexes; le clonage par illusion, qui consistait à créer une sorte de clone sans corps physique et presque ou entièrement intangible; le clonage temporaire, qui servait surtout dans les combats mais qui avait l'inconvénient de devoir séparer le Ki entre chaque clone et l'original; enfin, il y avait le clonage complet, qui était une méthode de procréation.
 
 TODO: se dédouble temporairement
 #### Capacités dans le jeu
@@ -217,6 +217,10 @@ TODO: se dédouble temporairement
 ##### Membres clonés
 * Effet: Permet de cloner un organe du corps temporairement. L'effet varie selon l'organe en question et le MJ. Veuillez consulter votre MJ.
 * Niveau minimal: 25
+
+##### Clones temporaires
+* Effet: Permet de créer un clone temporaire du joueur. Les attributs et les points du clone dépendent du nombre de PDK dépensés et d'un test de Ki dont la difficulté est égal au niveau du joueur (consulter la table ci-dessous). Le clone disparait lorsqu'il est vaincu, lorsque le combat est terminé ou lorsque le joueur le décide. En dehors d'un combat, le clone disparait lorsqu'il a accompli sa tâche, lorsqu'il est attaqué ou lorsque le joueur le décide. Le nombre de PDK du clone est égal au nombre de PDK dépensés pour le fabriquer moins 1. Si les PDK du clone ne sont pas tous dépensés lorsqu'il disparait, le joueur en récupère la moitié arrondie vers le bas.
+
 ### Aura
 TODO: intimide facilement, peut influencer les plus faibles à faire ce qu'il veut
 
@@ -283,7 +287,7 @@ Par contre, le ki n'est pas 100% comme de la magie dans un JDR traditionnel. On 
 
 De plus, le ki est une force très difficile à manipuler. Quand quelqu'un dans l'univers de Chipon apprend à l'utiliser, il va apprendre les même bases que tout le monde lui permettant d'utiliser le ki pour réduire ou augmenter les dégâts sur soit et sur les autres. Mais pour une utilisation plus poussée, il va surtout se spécialiser sur un cas d'utilisation unique. Par exemple, les moines de la Montagne de la mort apprennent à contrôler un seul des cinq éléments chinois pendant toute leur vie; rares sont ceux qui peuvent en maîtriser deux.
 
-Plus la chose est petite et éloignée du joueur, plus elle est difficile à manipuler avec du ki. Ainsi, un joueur qui utilise son ki pour utiliser ses ongles comme des griffes acérés aura plus de facilité et dépensera moins d'énergie qu'un joueur qui s'arrache les ongles pour en faire des senbon mortels. Dans le même ordre d'idée, un joueur qui solidifie un poil de cheveux pour en faire un pique pointue aura plus de difficulté et utilisera plus d'énergie qu'un joueur manipulant librement les mouvements d'un fouet. Dans un ordre d'idée différent, il sera toujours plus facile de renforcer une nature déjà présente chez l'objet. Quelques exemples: la solidité d'une pierre pourra s'améliorer beaucoup plus facilement que la solidité de l'eau; du magma se réchauffera plus facilement que de la glace; du vent se déplacera plus facilement et rapidement que de la terre; et ainsi de suite.
+Plus la chose est petite et éloignée du joueur, plus elle est difficile à manipuler avec du ki. Ainsi, un joueur qui utilise son ki pour faire de ses ongles des griffes acérés aura plus de facilité et dépensera moins d'énergie qu'un joueur qui s'arrache les ongles pour en faire des senbon mortels. Dans le même ordre d'idée, un joueur qui solidifie un poil de cheveux pour en faire un pique pointue aura plus de difficulté et utilisera plus d'énergie qu'un joueur manipulant librement les mouvements d'un fouet. Dans un ordre d'idée différent, il sera toujours plus facile de renforcer une nature déjà présente chez l'objet. Quelques exemples: la solidité d'une pierre pourra s'améliorer beaucoup plus facilement que la solidité de l'eau; du magma se réchauffera plus facilement que de la glace; du vent se déplacera plus facilement et rapidement que de la terre; et ainsi de suite.
 
 ## Chance
 Ce module ajoute une limitation à la chance:
