@@ -90,6 +90,7 @@ Avant de commencer à extrapoler sur les possibilités, il faut absolument se te
 
 ### Chance
 Lorsque le déroulement d'un événement ou le résultat d'un jet ne plait pas à un joueur, celui-ci peut décider de tester sa chance si le MJ accepte de le lui accorder. Pour tester sa chance, le joueur doit d'abord dépenser un point de chance, puis il doit ensuite rouler un D12. Si le jet est inférieur à la nouvelle chance du joueur, c'est un succès;
+* Quand c'est une situation où c'est le MJ qui force au joueur de tester leur chance, le joueur n'ont pas à dépenser de points de chance si le MJ ne le demande pas.
 * Le joueur peut rejouer le jet qu'il n'a pas aimé. Il faut que le jet soit le sien et non celui d'un autre joueur ou PNJ.
 * Tout degré de changement au déroulement de l'histoire se fait ou pas selon de la volonté et les caprices du MJ.
 
