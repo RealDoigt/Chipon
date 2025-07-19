@@ -202,7 +202,7 @@ Si le joueur dépense 10 pdm, il gagne un bonus temporaire de 6 à son endurance
 Au tour du joueur inconscient appliquer la règle sur l'inconscience dans la section [repos](#repos) puis ensuite le joueur doit faire un test d'esprit combatif afin de pouvoir sortir de l'inconscience (la difficulté est déterminée par le MJ).
 
 ### Évolution du personnage
-Un personnage joueur augmente de niveau lorsqu’il a obtenu un nombre d’EXP égal ou supérieur au nombre d’EXP maximal. Le nombre d’EXP est alors remis à 0. Le nombre d’EXP maximal est, par défaut, égal à NIV * 10.
+Un personnage joueur augmente de niveau lorsqu’il a obtenu un nombre d’EXP égal ou supérieur au nombre d’EXP maximal. Le nombre d’EXP est alors remis à 0 plus l'excédant. Le nombre d’EXP maximal est, par défaut, égal à NIV * 10.
 
 Lorsque le personnage d’un joueur augmente de niveau, celui-ci gagne 10 PDE que le joueur peut dépenser pour améliorer un élément des sections attributs et dégâts. Pour chaque point dépensé dans un attribut spécifique, la valeur cet attribut augmente de 3. Un joueur n’est pas tenu de dépenser immédiatement ses PDE, mais il peut le faire à tout moment.
 
