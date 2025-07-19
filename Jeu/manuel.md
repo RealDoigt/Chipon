@@ -175,9 +175,9 @@ Le calcul des multiplicateurs inclut les autres multiplicateurs de dégâts (hor
 
 Dégâts = (somme dés + PDM) * ( Force / 6 + PDK dépensés)
 
-Lorsqu'une attaque inflige des dégâts qui diminuent les PDV d'un personnage à ≥50% des PDV qu'il avait avant l'attaque, le joueur doit faire un test d'endurance dont la difficulté à surpassé est déterminer par le MJ. Si le joueur échoue le test, son personnage devient inconscent, ne supportant pas la douleur que lui cause l'attaque.
+Lorsqu'une attaque inflige des dégâts qui diminuent les PDV d'un personnage à ≥50% des PDV qu'il avait avant l'attaque, le joueur doit faire un test d'endurance dont la difficulté à surpassé est déterminer par le MJ. Si le joueur échoue le test, son personnage devient inconscient, ne supportant pas la douleur que lui cause l'attaque.
 
-Si les PDV d'un joueur tombe à 0 ou moins durant un combat, il devient inconscient. Le le personnage du joueur va mourir après le combat s'il n'a pas été regagné un nombre de PDV > 0 durant le combat.
+Si les PDV d'un joueur tombe à 0 ou moins durant un combat, il devient inconscient. Le personnage du joueur va mourir après le combat s'il n'a pas été regagné un nombre de PDV > 0 durant le combat.
 
 ##### Endurer une attaque
 Un joueur peut décider de dépenser 1 pdm pour endurer une partie ou la totalité des dégâts en testant l'endurance du joueur contre la force de l'adversaire. Cette étape ne peut se faire seulement après qu'il est déterminé que le joueur va subir l'attaque et que les dégâts sont calculés.
