@@ -143,12 +143,12 @@ Note: si le défenseur est inconscient, l'attaque passe automatiquement avec un 
 Un joueur peut décider de bloquer avec le Ki lieu de parrer ou éviter l'attaque. Le résultat sera de diminuer d'un certain pourcentage les dégâts reçus. Ça se fait en dépensant un certain nombre de PDK, puis en faisant un test de Ki (difficulté = PDK dépensés + moitié du niveau de l'adversaire). Quand le défenseur choisir de bloquer une attaque, il est considéré que l'attaque touche automatiquement, mais l'adversaire doit quand même faire un jet de technique pour voir s'il obtient des multiplicateurs ou diviseurs de dégât.
 
 Résultat selon le test de Ki du défenseur:
-    * Succès avec jet critique supérieur: dégâts diminués de 20% par PDK dépensé. L'excès de pourcentage est retransformé en PDK pour 1 point pour chaque tranche de 10% en excès (maximum 5); le reste de l'excès est transformé en PDV selon un taux de 1 PDV pour chaque point de pourcentage en excès.
-    * Succès avec un jet normal: dégâts diminués de 10% par PDK dépensé.
-    * Succès avec un jet critique inférieur: dégâts diminués de 5% par PDK dépensé.
-    * Échec avec un jet critique supérieur: dégâts diminués de 1%.
-    * Échec avec un jet normal: les dégâts sont appliqués en entier sans altération.
-    * Échec avec un jet critique inférieur: dégâts augmentés de 1% par PDK dépensé.
+* Succès avec jet critique supérieur: dégâts diminués de 20% par PDK dépensé. L'excès de pourcentage est retransformé en PDK pour 1 point pour chaque tranche de 10% en excès (maximum 5); le reste de l'excès est transformé en PDV selon un taux de 1 PDV pour chaque point de pourcentage en excès.
+* Succès avec un jet normal: dégâts diminués de 10% par PDK dépensé.
+* Succès avec un jet critique inférieur: dégâts diminués de 5% par PDK dépensé.
+* Échec avec un jet critique supérieur: dégâts diminués de 1%.
+* Échec avec un jet normal: les dégâts sont appliqués en entier sans altération.
+* Échec avec un jet critique inférieur: dégâts augmentés de 1% par PDK dépensé.
 
 ##### Calcul des dégâts
 
